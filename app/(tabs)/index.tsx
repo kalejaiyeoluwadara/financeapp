@@ -8,7 +8,6 @@ import ExpenseBlock from "@/component/ExpenseBlock";
 import expenseList from "@/data/expenses.json";
 import incomeList from "@/data/income.json";
 import spendingList from "@/data/spending.json";
-
 import IncomeBlock from "@/component/IncomeBlock";
 import SpendingBlock from "@/component/SpendingBlock";
 export default function Page() {
